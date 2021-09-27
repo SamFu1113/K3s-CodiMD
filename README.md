@@ -3,7 +3,7 @@
 ## Install Docker On Ubuntu
 
 ```sh
-#Install docker
+# Install docker
 sudo apt-get install docker.io
 ```
 
@@ -14,7 +14,7 @@ sudo systemctl restart docker
 ```
 
 ```sh
-#Docker user guide
+# Docker user guide
 sudo docker --help
 ```
 
