@@ -1,0 +1,36 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: codimd
+  labels:
+    app: codimd
+  namespace: codimd
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: codimd
+  template:
+    metadata:
+      labels: 
+        app: codimd
+    spec: 
+      containers:
+      - name: codimd
+        image: nabo.codimd.dev/hackmdio/hackmd:1.4.1
+        ports: 
+        - containerPort: 3000
+        env:
+        - name: CMD_DB_URL
+          value: postgres://codimd:codimd@codidb-svc/codimd
+        - name: CMD_USECDN
+          value: 'false'
+        volumeMounts: 
+        - mountPath: /home/sam/Desktop/k8s/part2
+          name: codimd-volume
+      restartPolicy: Always
+      volumes:
+        - name: codimd-volume
+          hostPath:
+            path: /home/sam/Desktop/k8s/part2
+            type: Directory

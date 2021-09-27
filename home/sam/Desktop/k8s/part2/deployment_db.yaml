@@ -1,0 +1,39 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: codidb
+  labels:
+    app: codidb
+  namespace: codimd
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: codidb
+  template: 
+    metadata:
+      labels: 
+        app: codidb
+    spec: 
+      containers:
+      - name: codidb
+        image: postgres:11.6-alpine
+        ports: 
+        - containerPort: 5432
+        env:
+        - name: POSTGRES_USER
+          value: codimd
+        - name: POSTGRES_DB
+          value: codimd
+        - name: POSTGRES_PASSWD
+          value: codimd
+        volumeMounts: 
+        - name: codimd-volume
+          mountPath: /var/lib/postgresql/data
+        
+      restartPolicy: Always
+      volumes:
+        - name: codimd-volume
+          hostPath:
+            path: /home/sam/Desktop/k8s/part2/data
+            type: DirectoryOrCreate

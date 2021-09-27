@@ -1,0 +1,13 @@
+apiVersion: v1
+kind: Pod
+metadata:
+  name: my-gcc-lab4
+  labels:
+    app: gcc
+spec:
+  restartPolicy: "OnFailure"
+  containers:
+  - name: gcc-lab4-demo
+    image: gcc:lab04
+    ports:
+    - containerPort: 3000
