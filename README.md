@@ -13,18 +13,18 @@
 ## Install Docker On Ubuntu
 
 ```sh
-# Install docker
+** Install docker **
 sudo apt-get install docker.io
 ```
 
 ```sh
-# Restart docker
+** Restart docker **
 sudo systemctl enable docker
 sudo systemctl restart docker
 ```
 
 ```sh
-# Docker user guide
+** Docker user guide **
 sudo docker --help
 ```
 
