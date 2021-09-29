@@ -1,4 +1,4 @@
-# K3s & Codimd
+# K3s & CodiMD
 
 ## What is the goal
 
