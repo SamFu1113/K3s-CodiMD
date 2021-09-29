@@ -3,12 +3,12 @@
 ## What is K3s
 - K3s is a highly available, certified Kubernetes distribution designed for production workloads in unattended, resource-constrained, remote locations or inside IoT appliances.
 
-## What is the goal
+## What is the project goal
 
 - Build a Docker image and to run the container based on the image which you build on the K3s.
 - Implement the app “CodiMD” with “CodiMD” and “postgresql” image by K8s’ Deployments and Pods.
 
-## Purpose of the goal
+## Purpose of the project goal
 
 - Make students be familiar with Docker and Pod which you build on the K3s.
 - Create K8s’ Services to provide service to users.
