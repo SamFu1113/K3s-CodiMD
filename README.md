@@ -1,5 +1,8 @@
 # K3s & CodiMD
 
+## What is K3s
+- K3s is a highly available, certified Kubernetes distribution designed for production workloads in unattended, resource-constrained, remote locations or inside IoT appliances.
+
 ## What is the goal
 
 - Build a Docker image and to run the container based on the image which you build on the K3s.
@@ -27,10 +30,12 @@ sudo systemctl restart docker
 ```sh
 sudo docker --help
 ```
-**ps:**
+**Ps:**
 ```sh
  Docker common command: docker run, docker build, docker ps, docker create
 ```
 
+**Reference**
+- https://k3s.io/
 
 
