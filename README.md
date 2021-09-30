@@ -2,6 +2,7 @@
 
 ## What is this project
 - This project consists of two parts. The first part help me get familiar with Dockerfile and how to install K3s. 
+- While I deployed the CodiMD servie using K8s in the second part. I used several yaml files to accomplish the task.
 
 ## What is K3s
 - K3s is a highly available, certified Kubernetes distribution designed for production workloads in unattended, resource-constrained, remote locations or inside IoT appliances.
