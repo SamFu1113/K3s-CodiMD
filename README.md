@@ -1,11 +1,9 @@
 # K3s & CodiMD
 
-## What is this project
+## What is the project mainly about
+
 - This project consists of two parts. The first part help me get familiar with Dockerfile and how to install K3s. 
 - While I deployed the CodiMD servie using K8s in the second part. I used several yaml files to accomplish the task.
-
-## What is K3s
-- K3s is a highly available, certified Kubernetes distribution designed for production workloads in unattended, resource-constrained, remote locations or inside IoT appliances.
 
 ## What is the project goal
 
@@ -16,6 +14,9 @@
 
 - Make students be familiar with Docker and Pod which you build on the K3s.
 - Create K8s’ Services to provide service to users.
+
+## What is K3s
+- K3s is a highly available, certified Kubernetes distribution designed for production workloads in unattended, resource-constrained, remote locations or inside IoT appliances.
 
 ## Install Docker On Ubuntu
 
