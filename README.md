@@ -48,7 +48,7 @@ sudo docker --help
 
 ## Reference
 - Docker: https://docs.docker.com/get-docker/
-- K3s: (https://k3s.io/), (https://rancher.com/docs/k3s/latest/en/quick-start/)
+- K3s: https://k3s.io/, &ensp; https://rancher.com/docs/k3s/latest/en/quick-start/
 - K8s: https://kubernetes.io/docs/home/
 
 
