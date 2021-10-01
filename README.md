@@ -12,7 +12,7 @@
 
 
 ## Purpose of the project goal
-- Make students be familiar with Docker and Pod which you build on the K3s.
+- Make students be familiar with Docker and Pod which I build on the K3s.
 - Create K8s’ Services to provide service to users.
 
 
