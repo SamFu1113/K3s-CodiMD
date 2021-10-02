@@ -23,6 +23,7 @@
 ## What is K3s
 - K3s is a highly available, certified Kubernetes distribution designed for production workloads in unattended, resource-constrained, remote locations or inside IoT appliances.
 
+---------------------------------------
 
 ## Install Docker On Ubuntu
 
@@ -45,6 +46,7 @@ sudo docker --help
 ```sh
  Docker common command: docker run, docker build, docker ps, docker create
 ```
+---------------------------------------
 
 ## Reference
 - Docker: https://docs.docker.com/get-docker/
