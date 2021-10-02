@@ -16,8 +16,8 @@
 - Create K8s’ Services to provide service to users.
 
 
-## What is K8s
-- Kubernetes is a portable, extensible, open-source platform for managing containerized workloads and services, that facilitates both declarative configuration and automation. 
+## What is K8s(Kubernetes)
+- K8s is a portable, extensible, open-source platform for managing containerized workloads and services, that facilitates both declarative configuration and automation. 
 - It has a large, rapidly growing ecosystem. Kubernetes services, support, and tools are widely available.
 
 ## What is K3s
