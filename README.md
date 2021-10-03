@@ -44,7 +44,8 @@ sudo docker --help
 ```
 **Ps:**
 ```sh
- Docker common command: docker run, docker build, docker ps, docker create
+ Docker common command: 
+ docker run, docker build, docker ps, docker create
 ```
 ---------------------------------------
 
