@@ -15,6 +15,7 @@
 - Make students be familiar with Docker and Pod which I build on the K3s.
 - Create K8s’ Services to provide service to users.
 
+*** part1
 ## What is Docker
 - Docker is a tool that allows developers, sys-admins etc. to easily deploy their applications in a sandbox (called containers) to run on the host operating system i.e. Linux.
 (in this project os is ubuntu 20.04)
@@ -24,7 +25,7 @@
 ## What is K3s
 - K3s is a highly available, certified Kubernetes distribution designed for production workloads in unattended, resource-constrained, remote locations or inside IoT appliances.
 
-
+*** part2
 ## What is K8s (Kubernetes)
 - K8s is a portable, extensible, open-source platform for managing containerized workloads and services, that facilitates both declarative configuration and automation. 
 - It has a large, rapidly growing ecosystem. Kubernetes services, support, and tools are widely available.
