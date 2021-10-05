@@ -18,19 +18,19 @@
 *** 
 Part1
 -----
-## What is Docker
+### What is Docker
 - Docker is a tool that allows developers, sys-admins etc. to easily deploy their applications in a sandbox (called containers) to run on the host operating system i.e. Linux.
 (in this project os is ubuntu 20.04)
 - The key benefit of Docker is that it allows users to package an application with all of its dependencies into a standardized unit for software development. 
 
 
-## What is K3s
+### What is K3s
 - K3s is a highly available, certified Kubernetes distribution designed for production workloads in unattended, resource-constrained, remote locations or inside IoT appliances.
 
 *** 
 Part2
 -----
-## What is K8s (Kubernetes)
+### What is K8s (Kubernetes)
 - K8s is a portable, extensible, open-source platform for managing containerized workloads and services, that facilitates both declarative configuration and automation. 
 - It has a large, rapidly growing ecosystem. Kubernetes services, support, and tools are widely available.
 
