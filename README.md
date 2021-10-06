@@ -13,7 +13,7 @@
 
 ## Purpose of the project goal
 - Make me more familiar with Docker and Pod which I build on the K3s.
-- Create K8s’ Services to provide service to users.
+- Create K8s services to provide service to users.
 
 *** 
 Part1
@@ -27,6 +27,8 @@ Part1
 ### What is K3s
 - K3s is a highly available, certified Kubernetes distribution designed for production workloads in unattended, resource-constrained, remote locations or inside IoT appliances.
 
+### Why K3s
+- Because the K8s is too big and too complicated for new hand, so we will install K3s instead.
 *** 
 Part2
 -----
