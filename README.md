@@ -39,7 +39,9 @@ Part2
 - K8s is a portable, extensible, open-source platform for managing containerized workloads and services, that facilitates both declarative configuration and automation. 
 - It has a large, rapidly growing ecosystem. Kubernetes services, support, and tools are widely available.
 
-
+### Why K8s
+- In a production environment, you need to manage the containers that run the applications and ensure that there is no downtime.
+- Kubernetes provides you with a framework to run distributed systems resiliently.
 
 ---------------------------------------
 
