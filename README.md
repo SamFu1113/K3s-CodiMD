@@ -47,12 +47,12 @@ Part2
 
 ## Install Docker On Ubuntu
 
-**Install docker**
+**Install Docker**
 ```sh
 sudo apt-get install docker.io
 ```
 
-**Restart docker**
+**Restart Docker**
 ```sh
 sudo systemctl enable docker
 sudo systemctl restart docker
@@ -68,6 +68,10 @@ sudo docker --help
  docker run, docker build, docker ps, and docker create
 ```
 ---------------------------------------
+
+## Install K3s On Ubuntu
+
+
 
 ## Reference
 - Docker: https://docs.docker.com/get-docker/
