@@ -76,6 +76,10 @@ sudo docker --help
 curl -sfL https://get.k3s.io | INSTALL_K3S_EXEC="--docker --write-kubeconfig-mode 644 " sh -
 ```
 
+**Check whether K3s is running without error**
+```sh
+kubectl get all -A
+```
 
 ## Reference
 - Docker: https://docs.docker.com/get-docker/
