@@ -71,6 +71,10 @@ sudo docker --help
 
 ## Install K3s On Ubuntu
 
+**Install K3s**
+```sh
+curl -sfL https://get.k3s.io | INSTALL_K3S_EXEC="--docker --write-kubeconfig-mode 644 " sh -
+```
 
 
 ## Reference
