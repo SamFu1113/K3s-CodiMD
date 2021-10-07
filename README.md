@@ -81,6 +81,8 @@ curl -sfL https://get.k3s.io | INSTALL_K3S_EXEC="--docker --write-kubeconfig-mod
 kubectl get all -A
 ```
 
+---------------------------------------
+
 ## Reference
 - Docker: https://docs.docker.com/get-docker/
 - K3s: https://k3s.io/, &ensp; https://rancher.com/docs/k3s/latest/en/quick-start/
