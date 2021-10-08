@@ -84,11 +84,11 @@ kubectl get all -A
 ## K3s introduction
 
 **Pod**
->	Pods are the smallest deployable units of computing that you can create and manage in Kubernetes. A Pod is a group of one or more containers, with shared storage/network resources, and a specification for how to run the containers.
+>	&nbsp;&nbsp;&nbsp;&nbsp;Pods are the smallest deployable units of computing that you can create and manage in Kubernetes. A Pod is a group of one or more containers, with shared storage/network resources, and a specification for how to run the containers.
 
 **Deployments**
-> 	A Deployment provides declarative updates for Pods ReplicaSets.<br/>
-	You describe a desired state in a Deployment, and the Deployment Controller changes the actual state to the desired state at a controlled rate. You can define Deployments to create new ReplicaSets, or to remove existing Deployments and adopt all their resources with new Deployments.
+> 	&nbsp;&nbsp;&nbsp;&nbsp;A Deployment provides declarative updates for Pods ReplicaSets.<br/>
+	&nbsp;&nbsp;&nbsp;&nbsp;You describe a desired state in a Deployment, and the Deployment Controller changes the actual state to the desired state at a controlled rate. You can define Deployments to create new ReplicaSets, or to remove existing Deployments and adopt all their resources with new Deployments.
 ---------------------------------------
 
 ## Reference
