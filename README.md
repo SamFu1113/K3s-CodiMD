@@ -81,6 +81,12 @@ curl -sfL https://get.k3s.io | INSTALL_K3S_EXEC="--docker --write-kubeconfig-mod
 kubectl get all -A
 ```
 
+## K3s introduction
+
+**Pod**
+> Pods are the smallest deployable units of computing that you can create and manage in Kubernetes. A Pod is a group of one or more containers, with shared storage/network resources, and a specification for how to run the containers.
+
+
 ---------------------------------------
 
 ## Reference
