@@ -45,7 +45,7 @@ Part2
 
 ### What is CodiMD
 - CodiMD is the free software version of [HackMD](https://hackmd.io/), developed and opened source by the HackMD team with reduced features (without book mode), you can use CodiMD for your community and own all your data.
-
+- (See the [origin of the name CodiMD](https://github.com/hackmdio/codimd/issues/720).)
 
 
 ---------------------------------------
