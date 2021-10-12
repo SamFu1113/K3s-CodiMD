@@ -43,6 +43,11 @@ Part2
 - In a production environment, you need to manage the containers that run the applications and ensure that there is no downtime.
 - Kubernetes provides you with a framework to run distributed systems resiliently.
 
+### What is CodiMD
+- CodiMD is the free software version of HackMD, developed and opened source by the HackMD team with reduced features (without book mode), you can use CodiMD for your community and own all your data.
+
+
+
 ---------------------------------------
 
 ## Install Docker On Ubuntu
