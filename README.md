@@ -48,8 +48,8 @@ Part2
 - (See the [origin of the name CodiMD](https://github.com/hackmdio/codimd/issues/720).)
 
 ### Why CodiMD
-- In a production environment, you need to manage the containers that run the applications and ensure that there is no downtime.
-- Kubernetes provides you with a framework to run distributed systems resiliently.
+- CodiMD is perfect for open communities, while HackMD emphasizes on permission and access controls for commercial use cases.
+- HackMD team is committed to keep CodiMD open source. All contributions are welcome!
 ---------------------------------------
 
 ## Install Docker On Ubuntu
