@@ -96,6 +96,10 @@ kubectl get all -A
 **Deployments**
 > 	&nbsp;&nbsp;&nbsp;&nbsp;A Deployment provides declarative updates for Pods ReplicaSets.<br/>
 	&nbsp;&nbsp;&nbsp;&nbsp;You describe a desired state in a Deployment, and the Deployment Controller changes the actual state to the desired state at a controlled rate. You can define Deployments to create new ReplicaSets, or to remove existing Deployments and adopt all their resources with new Deployments.
+	
+**Services**
+> 	&nbsp;&nbsp;&nbsp;&nbsp;An abstract way to expose an application running on a set of Pods as a network service.<br/>
+	&nbsp;&nbsp;&nbsp;&nbsp;With Kubernetes you don’t need to modify your application to use an unfamiliar service discovery mechanism. Kubernetes gives Pods their own IP addresses and a single DNS name for a set of Pods, and can load-balance across them.
 ---------------------------------------
 
 ## Reference
