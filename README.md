@@ -47,7 +47,9 @@ Part2
 - CodiMD is the free software version of [HackMD](https://hackmd.io/), developed and opened source by the HackMD team with reduced features (without book mode), you can use CodiMD for your community and own all your data.
 - (See the [origin of the name CodiMD](https://github.com/hackmdio/codimd/issues/720).)
 
-
+### Why CodiMD
+- In a production environment, you need to manage the containers that run the applications and ensure that there is no downtime.
+- Kubernetes provides you with a framework to run distributed systems resiliently.
 ---------------------------------------
 
 ## Install Docker On Ubuntu
