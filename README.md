@@ -107,6 +107,9 @@ kubectl get all -A
 **Part I**
 > To make me familiar with Docker and Pod, this homework topic is to build a Docker image and to run the container based on the image which you build on the K3s.
 > Goal: 
+---------------------------------------
+
+
 ## Reference
 - Docker: https://docs.docker.com/get-docker/
 - K3s: https://k3s.io/<br />
