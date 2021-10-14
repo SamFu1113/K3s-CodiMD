@@ -104,9 +104,9 @@ kubectl get all -A
 
 ## Project
 
-**Part I**
+### Part I
 > To make me familiar with Docker and Pod, this homework topic is to build a Docker image and to run the container based on the image which you build on the K3s.
-> Goal: 
+> Goal: Build a gcc Docker image that print “hello, this is lab 04.” and running on the K3s.
 ---------------------------------------
 
 
