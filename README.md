@@ -15,7 +15,7 @@
 - Make me more familiar with Docker and Pod which I build on the K3s.
 - Create K8s services to provide service to users.
 
-*** 
+
 Part1
 -----
 ### What is Docker
