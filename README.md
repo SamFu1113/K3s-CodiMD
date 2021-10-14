@@ -110,7 +110,7 @@ kubectl get all -A
 -----
 ### Part II
 > Implement the app “CodiMD” with “CodiMD” and “postgresql” image by K8s’ Deployments and Pods, while create K8s’ Services to provide service to users.
-> 
+> Hints: [CodiMD github](https://github.com/hackmdio/codimd), [CodiMD Documentation](https://hackmd.io/c/codimd-documentation/%2Fs%2Fcodimd-documentation)
 ---------------------------------------
 
 
