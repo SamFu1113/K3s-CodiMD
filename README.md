@@ -108,16 +108,16 @@ kubectl get all -A
 > To make me familiar with Docker and Pod, this homework topic is to build a Docker image and to run the container based on the image which you build on the K3s.
 > Goal: Build a gcc Docker image that print “hello, this is lab 04.” and running on the K3s.
 ```sh
-#step 1
+**step 1**
 Create a C language file that print "hello, this is lab 04."
 
-#step 2
+**step 2**
 Write a Dockerfile based on "gcc:10.2" image
 
-#step 3
+**step 3**
 Build a Docker image whose name is "gcc:lab04"
 
-#step 4
+**step 4**
 Write a Pod yaml file that is running "gcc:lab04" image
 ```
 
