@@ -155,7 +155,7 @@ volumes:
   upload-data: {}
 ```
 
-> &nbsp;&nbsp;&nbsp;&nbsp; The following images is the hint for implementation.
+&nbsp;&nbsp;&nbsp;&nbsp; The following images is the hint for implementation.
 According to the docker-compose file and the hint, finish the homework.
 ---------------------------------------
 
