@@ -156,7 +156,9 @@ volumes:
 ```
 
 - The following images is the hint for implementation.
-- According to the docker-compose file and the hint, I finished the work.
+	- deployment.yaml:
+		![image info](C:\Users\Sam\Documents\GitHub\K3s\home\sam\Desktop\k8s\CodiMD\photos\deployment.png)
+- According to the docker-compose file and the hints, I finished the work.
 ---------------------------------------
 
 
