@@ -154,6 +154,7 @@ volumes:
   database-data: {}
   upload-data: {}
 ```
+- According to the docker-compose file, I finished the work.
 
 - The following images is the hint for implementation.
 	- deployment.yaml:  
@@ -164,7 +165,8 @@ volumes:
 		![image info](photos/service.PNG)
 	- service_db.yaml:  
 		![image info](photos/service_db.PNG)
-- According to the docker-compose file and the hints, I finished the work.
+		
+- According to the hints about yamls, I finished the work.
 ---------------------------------------
 
 
