@@ -163,6 +163,7 @@ volumes:
 	- service.yaml:  
 		![image info](photos/service.PNG)
 	- service_db.yaml:  
+		![image info](photos/service_db.PNG)
 - According to the docker-compose file and the hints, I finished the work.
 ---------------------------------------
 
