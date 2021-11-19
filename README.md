@@ -162,6 +162,7 @@ volumes:
 		![image info](photos/deployment_db.PNG)
 	- service.yaml:  
 		![image info](photos/service.PNG)
+	- service_db.yaml:  
 - According to the docker-compose file and the hints, I finished the work.
 ---------------------------------------
 
