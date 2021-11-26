@@ -73,7 +73,7 @@ sudo docker --help
 ```
 **Ps:**
  Docker common command: 
-`docker run, docker build, docker ps, and docker create etc.`
+`<font size="5"> docker run, docker build, docker ps, and docker create etc.</font>`
 ---------------------------------------
 
 ## Install K3s On Ubuntu
