@@ -55,7 +55,7 @@ Part2
 ## Install Docker On Ubuntu
 
 **Install Docker**
-```sh
+```
 sudo apt-get install docker.io
 ```
 
