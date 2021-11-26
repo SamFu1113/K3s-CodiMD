@@ -62,6 +62,8 @@ sudo apt-get install docker.io
 **Restart Docker**
 ```sh
 sudo systemctl enable docker
+```
+```sh
 sudo systemctl restart docker
 ```
 
