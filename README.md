@@ -157,7 +157,7 @@ volumes:
 - The following images is the hint for implementation.
 	- **deployment.yaml**:  
 		![image info](photos/deployment.PNG)
-	- deployment_db.yaml:  
+	- **deployment_db.yaml**:  
 		![image info](photos/deployment_db.PNG)
 	- service.yaml:  
 		![image info](photos/service.PNG)
