@@ -161,7 +161,7 @@ volumes:
 		![image info](photos/deployment_db.PNG)
 	- **service.yaml**:  
 		![image info](photos/service.PNG)
-	- service_db.yaml:  
+	- **service_db.yaml**:  
 		![image info](photos/service_db.PNG)
 		
 - According to the hints about yamls, I finished the work.
