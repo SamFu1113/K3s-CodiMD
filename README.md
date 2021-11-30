@@ -159,7 +159,7 @@ volumes:
 		![image info](photos/deployment.PNG)
 	- **deployment_db.yaml**:  
 		![image info](photos/deployment_db.PNG)
-	- service.yaml:  
+	- **service.yaml**:  
 		![image info](photos/service.PNG)
 	- service_db.yaml:  
 		![image info](photos/service_db.PNG)
