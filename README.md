@@ -164,7 +164,7 @@ volumes:
 	- **service_db.yaml**:  
 		![image info](photos/service_db.PNG)
 		
-- According to the hints about yamls, I finished the work.
+- According to the hints about yamls, I finished the work to deploy CodiMD service.
 ---------------------------------------
 
 
