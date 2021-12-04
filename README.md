@@ -100,7 +100,7 @@ kubectl get all -A
 > 	&nbsp;&nbsp;&nbsp;&nbsp;An abstract way to expose an application running on a set of Pods as a network service. With Kubernetes you don’t need to modify your application to use an unfamiliar service discovery mechanism. Kubernetes gives Pods their own IP addresses and a single DNS name for a set of Pods, and can load-balance across them.
 ---------------------------------------
 
-## Project
+## Project implementation
 
 ### Part I
 > To make me familiar with Docker and Pod, this homework topic is to build a Docker image and to run the container based on the image which you build on the K3s.
