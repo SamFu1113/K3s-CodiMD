@@ -86,8 +86,6 @@ docker ps
 docker create
 ```
 
-<sub>`docker run, docker build, docker ps, and docker create etc.`</sub>
-
 ---------------------------------------
 
 ## Install K3s On Ubuntu
