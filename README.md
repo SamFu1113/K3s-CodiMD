@@ -81,7 +81,10 @@ docker build
 ```
 ```sh
 docker ps
-```docker create etc.
+```
+```sh
+docker create
+```
 
 <sub>`docker run, docker build, docker ps, and docker create etc.`</sub>
 
