@@ -73,16 +73,15 @@ sudo docker --help
 ```
 <sub>**Ps:**</sub>
 <sub>Docker common command:</sub></br>
-<<<<<<< HEAD
 ```sh
 docker run
 ```
 ```sh
 docker build
 ```docker ps, and docker create etc.
-=======
+
 <sub>`docker run, docker build, docker ps, and docker create etc.`</sub>
->>>>>>> parent of 288cc1c (Update the documentation)
+
 ---------------------------------------
 
 ## Install K3s On Ubuntu
