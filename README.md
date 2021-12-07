@@ -71,8 +71,8 @@ sudo systemctl restart docker
 ```sh
 sudo docker --help
 ```
-<sub>**Ps:**</sub>
-<sub>Docker common command:</sub></br>
+**Ps:**
+**Docker common command:**</br>
 ```sh
 docker run
 ```
