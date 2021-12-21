@@ -168,7 +168,7 @@ volumes:
 ```
 - According to the docker-compose file, I finished the work.
 
-- The following images is the hint for implementation.
+- The following images are the hints for the implementation.
 	- **deployment.yaml**:  
 		![image info](photos/deployment.PNG)
 	- **deployment_db.yaml**:  
