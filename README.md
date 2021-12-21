@@ -119,17 +119,17 @@ kubectl get all -A
 
 **Goal**: Build a gcc Docker image that print “hello, this is lab 04.” and running on the K3s.
 
-**step 1**
+**Step 1**
 Create a C language file that print "hello, this is lab 04."
 
 
-**step 2**
+**Step 2**
 Write a Dockerfile based on "gcc:10.2" image
 
-**step 3**
+**Step 3**
 Build a Docker image whose name is "gcc:lab04"
 
-**step 4**
+**Step 4**
 Write a Pod yaml file that is running "gcc:lab04" image
 ```
 
