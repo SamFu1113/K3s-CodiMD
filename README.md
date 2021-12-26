@@ -135,7 +135,7 @@ Write a Pod yaml file that is running "gcc:lab04" image
 
 ### Part II
 > &nbsp;&nbsp;&nbsp;&nbsp;Implement the app “CodiMD” with “CodiMD” and “postgresql” image by K8s’ Deployments and Pods, while create K8s’ Services to provide service to users.<br/>
-> Hints: [CodiMD github](https://github.com/hackmdio/codimd), [CodiMD Documentation](https://hackmd.io/c/codimd-documentation/%2Fs%2Fcodimd-documentation)
+Hints: [CodiMD github](https://github.com/hackmdio/codimd), [CodiMD Documentation](https://hackmd.io/c/codimd-documentation/%2Fs%2Fcodimd-documentation)
 
 **For example, using docker-compose to setup CodiMD**
 ```sh
