@@ -7,7 +7,7 @@
 
 
 ## What is the project goal
-- Build a Docker image and to run the container based on the image which you build on the K3s.
+- Build a Docker image and run the container based on the image which I build on the K3s.
 - Implement the app “CodiMD” with “CodiMD” and “postgresql” image by K8s’ Deployments and Pods.
 
 
