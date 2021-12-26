@@ -131,7 +131,7 @@ Build a Docker image whose name is "gcc:lab04"
 
 **Step 4**
 Write a Pod yaml file that is running "gcc:lab04" image
-```
+
 
 ### Part II
 > &nbsp;&nbsp;&nbsp;&nbsp;Implement the app “CodiMD” with “CodiMD” and “postgresql” image by K8s’ Deployments and Pods, while create K8s’ Services to provide service to users.<br/>
