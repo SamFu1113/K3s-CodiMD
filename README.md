@@ -44,7 +44,7 @@ Part2
 - Kubernetes provides me with a framework to run distributed systems resiliently.
 
 ### What is CodiMD
-- CodiMD is the free software version of [HackMD](https://hackmd.io/), developed and opened source by the HackMD team with reduced features (without book mode), you can use CodiMD for your community and own all your data.
+- CodiMD is the free software version of [HackMD](https://hackmd.io/), developed and opened source by the HackMD team with reduced features (without book mode), I can use CodiMD for your community and own all your data.
 - (See the [origin of the name CodiMD](https://github.com/hackmdio/codimd/issues/720).)
 
 ### Why CodiMD
