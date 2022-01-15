@@ -121,7 +121,7 @@ kubectl get all -A
 
 |  Steps  |  Description   |
 |  ----  | ----  |
-|  **Step 1:** | Create a C language file that print "hello, this is lab 04." |
+|  **Step 1** | Create a C language file that print "hello, this is lab 04." |
 | 单元格  | 单元格 |
 | 单元格  | 单元格 |
 
