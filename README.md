@@ -120,6 +120,7 @@ kubectl get all -A
 **Goal**: Build a gcc Docker image that print “hello, this is lab 04.” and running on the K3s.
 
 |  Steps  |  Description   |
+|  ----  | ----  |
 |  **Step 1:** | Create a C language file that print "hello, this is lab 04." |
 | 单元格  | 单元格 |
 | 单元格  | 单元格 |
