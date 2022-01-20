@@ -124,14 +124,14 @@ kubectl get all -A
 | **Step 1** | Create a C language file that print "hello, this is lab 04." |
 | **Step 2**  | Write a Dockerfile based on "gcc:10.2" image. |
 | **Step 3**  | Build a Docker image whose name is "gcc:lab04" |
-| **Step 4**  |
+| **Step 4**  | Write a Pod yaml file that is running "gcc:lab04" image |
 
 
 
 
 
 
-Write a Pod yaml file that is running "gcc:lab04" image
+
 
 
 ### Part II
