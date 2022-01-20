@@ -123,10 +123,10 @@ kubectl get all -A
 |  ----  | ----  |
 | **Step 1** | Create a C language file that print "hello, this is lab 04." |
 | **Step 2**  | Write a Dockerfile based on "gcc:10.2" image. |
-| 单元格  | 单元格 |
+| **Step 3**  | 单元格 |
 
 
-**Step 3**
+
 Build a Docker image whose name is "gcc:lab04"
 
 **Step 4**
