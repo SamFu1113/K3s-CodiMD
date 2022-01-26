@@ -88,7 +88,7 @@ docker create
 
 ---------------------------------------
 
-## Install K3s On
+## Install K3s on Ubuntu 20.04
 
 **Install K3s**
 ```sh
