@@ -52,7 +52,7 @@ Part2
 - HackMD team is committed to keep CodiMD open source. All contributions are welcome!
 ---------------------------------------
 
-## Install Docker On
+## Install Docker on Ubuntu 20.04
 
 **Install Docker**
 ```sh
