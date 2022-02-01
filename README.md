@@ -1,6 +1,6 @@
 # K3s & CodiMD
 
-## What is the project mainly about
+## What is the project mainly about?
 ### This project consists of two parts.
 - The first part help me get familiar with Dockerfile and how to install K3s. 
 - While I deployed the CodiMD servie using K8s in the second part. I used several yaml files to accomplish the task.
