@@ -6,7 +6,7 @@
 - While I deployed the CodiMD servie using K8s in the second part. I used several yaml files to accomplish the task.
 
 
-## What is the project goal
+## What is the project goal?
 - Build a Docker image and run the container based on the image which I build on the K3s.
 - Implement the app “CodiMD” with “CodiMD” and “postgresql” image by K8s’ Deployments and Pods.
 
