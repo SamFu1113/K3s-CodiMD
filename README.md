@@ -30,7 +30,7 @@ Part1
 ### What is K3s?
 - K3s is a highly available, certified Kubernetes distribution designed for production workloads in unattended, resource-constrained, remote locations or inside IoT appliances.
 
-### Why K3s
+### Why K3s?
 - Because the K8s is too big and too complicated for new hand, so we will install K3s instead.
 *** 
 Part2
