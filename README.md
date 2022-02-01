@@ -11,7 +11,7 @@
 - Implement the app “CodiMD” with “CodiMD” and “postgresql” image by K8s’ Deployments and Pods.
 
 
-## Purpose of the project goal
+## Purpose of the project goal.
 - Make me more familiar with Docker and Pod which I build on the K3s.
 - Create K8s services to provide service to users.
 
