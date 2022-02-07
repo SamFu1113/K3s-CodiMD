@@ -187,7 +187,7 @@ volumes:
 
 ## Reference
 - Docker: https://docs.docker.com/get-docker/
-- K3s: https://k3s.io/ ;</br>
+- K3s: https://k3s.io/,</br>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://rancher.com/docs/k3s/latest/en/quick-start/
 - K8s: https://kubernetes.io/docs/home/
 - CodiMD: [CodiMD github](https://github.com/hackmdio/codimd), [CodiMD Documentation](https://hackmd.io/c/codimd-documentation/%2Fs%2Fcodimd-documentation) 
