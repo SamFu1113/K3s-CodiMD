@@ -35,7 +35,7 @@ Part1
 *** 
 Part2
 -----
-### What is Kubernetes(K8s)
+### What is Kubernetes(K8s)?
 - K8s is a portable, extensible, open-source platform for managing containerized workloads and services, that facilitates both declarative configuration and automation. 
 - It has a large, rapidly growing ecosystem. Kubernetes services, support, and tools are widely available.
 
