@@ -106,7 +106,7 @@ kubectl get all -A
 **Pod**</br>
 &nbsp;&nbsp;&nbsp;&nbsp;Pods are the smallest deployable units of computing that I can create and manage in Kubernetes. A Pod is a group of one or more containers, with shared storage/network resources, and a specification for how to run the containers.
 
-**Deployments**
+**Deployments**</br>
 &nbsp;&nbsp;&nbsp;&nbsp;A Deployment provides declarative updates for Pods ReplicaSets. I describe a desired state in a Deployment, and the Deployment Controller changes the actual state to the desired state at a controlled rate. I can define Deployments to create new ReplicaSets, or to remove existing Deployments and adopt all their resources with new Deployments.
 	
 **Services**
