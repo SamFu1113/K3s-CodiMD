@@ -141,7 +141,7 @@ kubectl get all -A
 Hints: [CodiMD github](https://github.com/hackmdio/codimd), [CodiMD Documentation](https://hackmd.io/c/codimd-documentation/%2Fs%2Fcodimd-documentation)
 
 **For example, using docker-compose to setup CodiMD**
-- Below is the **Dockerfile** example (I didn't actually use it.)
+- Below is the **Dockerfile** example (I didn't actually use it, just for demonstration.)
 	- Dockerfile
 ```sh
 version: "3"
