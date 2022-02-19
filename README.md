@@ -175,7 +175,7 @@ volumes:
   database-data: {}
   upload-data: {}
 ```
-- According to the docker-compose file, I finished the work to create CodiMD.
+- According to the docker-compose file, I finished the work to create CodiMD service.
 
 - The following images are the hints for the implementation.
 	- **deployment.yaml**:  
