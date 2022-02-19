@@ -103,7 +103,7 @@ kubectl get all -A
 
 ## K8s introduction
 
-**Pod**
+**Pod**</br>
 &nbsp;&nbsp;&nbsp;&nbsp;Pods are the smallest deployable units of computing that I can create and manage in Kubernetes. A Pod is a group of one or more containers, with shared storage/network resources, and a specification for how to run the containers.
 
 **Deployments**
