@@ -142,10 +142,11 @@ Hints: [CodiMD github](https://github.com/hackmdio/codimd), [CodiMD Documentatio
 
 **For example, using docker-compose to setup CodiMD**
 - Below is the **Dockerfile** example 
+	- Dockerfile
 <!---
 (I didn't actually use it, just for demonstration.)
 --->
-	- Dockerfile
+	
 ```sh
 version: "3"
 services:
