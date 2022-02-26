@@ -20,7 +20,7 @@ Part1
 -----
 ### What is Docker?
 - Docker provides the ability to package and run an application in a loosely isolated environment called a **container**.
-- The isolation and security allow you to run many containers simultaneously on a given host.
+- The isolation and security allow me to run many containers simultaneously on a given host.
 - Docker is a tool that allows developers, sys-admins etc. to easily deploy their applications in a sandbox (called containers) to run on the host operating system i.e. Linux.
 (in this project os is ubuntu 20.04)
 - The key benefit of Docker is that it allows users to package an application with all of its dependencies into a standardized unit for software development. 
