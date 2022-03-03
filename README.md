@@ -29,6 +29,8 @@ Part1
 (in this project os is ubuntu 20.04)
 - The key benefit of Docker is that it allows users to package an application with all of its dependencies into a standardized unit for software development. 
 
+![image info](photos/docker_illustration.PNG)
+
 ### Why choose Docker?
 - Docker provides the ability to package and run an application in a loosely isolated environment called a container. The isolation and security allow me to run many containers simultaneously on a given host. 
 - Containers are lightweight because they don’t need the extra load of a hypervisor, but run directly within the host machine’s kernel. 
