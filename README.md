@@ -31,6 +31,8 @@ Part1
 
 ![image info](photos/docker_illustration.PNG)
 
+**Additional information**
+
 ### Why choose Docker?
 - Docker provides the ability to package and run an application in a loosely isolated environment called a container. The isolation and security allow me to run many containers simultaneously on a given host. 
 - Containers are lightweight because they don’t need the extra load of a hypervisor, but run directly within the host machine’s kernel. 
