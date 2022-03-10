@@ -35,7 +35,7 @@ Part1
 - Docker provides tooling and a platform to manage the lifecycle of my containers:
 	- Develop my application and its supporting components using containers.
 	- The container becomes the unit for distributing and testing your application.
-	- When you’re ready, deploy your application into your production environment, as a container
+	- When you’re ready, deploy your application into your production environment, as a container or an orchestrated service.
 ### Why choose Docker?
 - Docker provides the ability to package and run an application in a loosely isolated environment called a container. The isolation and security allow me to run many containers simultaneously on a given host. 
 - Containers are lightweight because they don’t need the extra load of a hypervisor, but run directly within the host machine’s kernel. 
