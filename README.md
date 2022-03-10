@@ -32,7 +32,7 @@ Part1
 ![image info](photos/docker_illustration.PNG)
 
 **Additional information**
-- Docker provides tooling and a platform to manage the lifecycle of your containers:
+- Docker provides tooling and a platform to manage the lifecycle of my containers:
 	- Develop your application and its supporting components using containers.
 ### Why choose Docker?
 - Docker provides the ability to package and run an application in a loosely isolated environment called a container. The isolation and security allow me to run many containers simultaneously on a given host. 
