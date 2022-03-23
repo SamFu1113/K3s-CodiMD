@@ -54,6 +54,8 @@ Part2
 - It has a large, rapidly growing ecosystem. Kubernetes services, support, and tools are widely available.
 #
 &nbsp;&nbsp;&nbsp;&nbsp;Containers are a good way to bundle and run your applications. In a production environment, I need to manage the containers that run the applications and ensure that there is no downtime. For example, if a container goes down, another container needs to start.
+Wouldn’t it be easier if this behavior was handled by a system?
+
 
 ### Why choose K8s?
 - In a production environment, I need to manage the containers that run the applications and ensure that there is no downtime.
