@@ -57,7 +57,7 @@ Part2
 Wouldn’t it be easier if this behavior was handled by a system?  
 &nbsp;&nbsp;&nbsp;That’s how Kubernetes comes to the rescue! Kubernetes provides me with a frameworkto run distributed systems resiliently. It takes care of scaling and failover for my application, provides deployment patterns, and more. For example, K8s can easily manage a acanary deployment for my system. 
 
-Kubernetes provides you with:  
+K8s provides you with:  
 - **Service discovery and load balancing: ** K8s can expose a container
 
 
