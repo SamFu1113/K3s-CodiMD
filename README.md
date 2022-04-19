@@ -64,7 +64,7 @@ K8s provides me with:
 
 ### Why choose K8s?
 - In a production environment, I need to manage the containers that run the applications and ensure that there is no downtime.
-- Kubernetes provides me with a framework to run distributed systems resiliently.
+- K8s provides me with a framework to run distributed systems resiliently.
 
 ### What is CodiMD?
 - CodiMD is the free software version of [HackMD](https://hackmd.io/), developed and opened source by the HackMD team with reduced features (without book mode), I can use CodiMD for the community and own all my data.
