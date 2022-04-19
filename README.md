@@ -59,7 +59,7 @@ Wouldn’t it be easier if this behavior was handled by a system?
 
 K8s provides me with:  
 - Service discovery and load balancing: K8s can expose a container using the DNS name or using their own IP address. If traffic to a container is high, K8s is able to load balance and distribute the network traffic so that the deployment is stable.
-- Storage orchestration: K8s allows me to automatically mount a storage system
+- Storage orchestration: K8s allows me to automatically mount a storage system of your choice
 
 
 ### Why choose K8s?
