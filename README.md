@@ -61,7 +61,7 @@ K8s provides me with:
 - Service discovery and load balancing: K8s can expose a container using the DNS name or using their own IP address. If traffic to a container is high, K8s is able to load balance and distribute the network traffic so that the deployment is stable.
 - Storage orchestration: K8s allows me to automatically mount a storage system of your choice, such as local storages, public cloud providers, and more.
 - Automated rollouts and rollbacks: You can describe the desired state for your deployed containers using K8s, and it can change the actual state to the desired state at a controlled rate. For example, you can automate K8s to create new containers for your deployment, 
-remove existing containers 
+remove existing containers and adopt all their resources to the new container.
 
 
 ### Why choose K8s?
