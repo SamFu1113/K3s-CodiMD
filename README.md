@@ -62,7 +62,7 @@ K8s provides me with:
 - Storage orchestration: K8s allows me to automatically mount a storage system of your choice, such as local storages, public cloud providers, and more.
 - Automated rollouts and rollbacks: You can describe the desired state for your deployed containers using K8s, and it can change the actual state to the desired state at a controlled rate. For example, you can automate K8s to create new containers for your deployment, 
 remove existing containers and adopt all their resources to the new container.
-- Automatic bin packing: You provide Kubernetes with
+- Automatic bin packing: You provide K8s with
 
 
 ### Why choose K8s?
