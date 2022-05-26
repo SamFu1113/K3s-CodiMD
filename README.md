@@ -64,7 +64,7 @@ K8s provides me with:
 remove existing containers and adopt all their resources to the new container. 
 - Automatic bin packing: I could provide K8s with a cluster of nodes that it can use to run containerized tasks. I could tell K8s how much CPU and memory (RAM) each container needs. K8s can fit containers onto my nodes to make the best use of my resources.
 - Self-healing: K8s restarts containers that fail, replaces containers, kills containers that don’t respond to your user-defined health check, and doesn’t advertise them to clients until they are ready to serve.
-- Secret and configuration management: K8s lets me store and manage sensitive information, such as passwords, OAuth tokens, and SSH keys. 
+- Secret and configuration management: K8s lets me store and manage sensitive information, such as passwords, OAuth tokens, and SSH keys. You can deploy and
 
 ### Why choose K8s?
 - In a production environment, I need to manage the containers that run the applications and ensure that there is no downtime.
