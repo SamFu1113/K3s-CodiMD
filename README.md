@@ -119,7 +119,7 @@ docker create
 
 ## Install K3s on Ubuntu 20.04
 
-**Install K3s**
+**Install K3s**  
 Because the K8s is too big and too complicated for new hand, so we will install K3s instead.
 ```sh
 curl -sfL https://get.k3s.io | INSTALL_K3S_EXEC="--docker --write-kubeconfig-mode 644 " sh -
