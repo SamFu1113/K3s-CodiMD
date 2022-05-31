@@ -66,7 +66,7 @@ remove existing containers and adopt all their resources to the new container.
 - Self-healing: K8s restarts containers that fail, replaces containers, kills containers that don’t respond to my user-defined health check, and doesn’t advertise them to clients until they are ready to serve.
 - Secret and configuration management: K8s lets me store and manage sensitive information, such as passwords, OAuth tokens, and SSH keys. I can deploy and update secrets and application configuration without rebuilding my container images, and without exposing secrets in my stack configuration.  
 - **K8s components**:
-	![image info](photos/deployment.PNG)
+	![image info](photos/K8s components.PNG)
 ### Why choose K8s?
 - In a production environment, I need to manage the containers that run the applications and ensure that there is no downtime.
 - K8s provides me with a framework to run distributed systems resiliently.
