@@ -32,7 +32,7 @@ Part1
 ![image info](photos/docker_illustration.PNG)
 # 
 ### Docker architecture
-&nbsp;&nbsp;&nbsp;&nbsp;
+- 
 
 **Additional information**
 - Docker provides tooling and a platform to manage the lifecycle of my containers:
