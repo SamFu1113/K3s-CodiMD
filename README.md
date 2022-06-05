@@ -30,7 +30,7 @@ Part1
 - The key benefit of Docker is that it allows users to package an application with all of its dependencies into a standardized unit for software development. 
 
 ![image info](photos/docker_illustration.PNG)
-
+# 
 **Additional information**
 - Docker provides tooling and a platform to manage the lifecycle of my containers:
 	- Develop my application and its supporting components using containers.
