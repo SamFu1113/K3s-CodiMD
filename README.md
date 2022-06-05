@@ -31,6 +31,8 @@ Part1
 
 ![image info](photos/docker_illustration.PNG)
 # 
+### Docker architecture
+
 **Additional information**
 - Docker provides tooling and a platform to manage the lifecycle of my containers:
 	- Develop my application and its supporting components using containers.
