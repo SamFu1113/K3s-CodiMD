@@ -32,7 +32,8 @@ Part1
 ![image info](photos/docker_illustration.PNG)
 # 
 ### Docker architecture
-- Docker uses a client-server architecture. The Docker client talks to the Docker daemon, which does the heavy lifting of building, running, and distributing my Docker containers. The Docker client and daemon can run on the same system,
+- Docker uses a client-server architecture. The Docker client talks to the Docker daemon, which does the heavy lifting of building, running, and distributing my Docker containers. The Docker client and daemon can run on the same system, 
+or you can connect
 
 **Additional information**
 - Docker provides tooling and a platform to manage the lifecycle of my containers:
