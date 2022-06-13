@@ -143,7 +143,7 @@ kubectl get all -A
 ```sh
 #Creating a Pod:
 apiVersion: v1
-kind: Pod
+	kind: Pod
 
 ```
 **Deployments**</br>
