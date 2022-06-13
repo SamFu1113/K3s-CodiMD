@@ -144,6 +144,7 @@ kubectl get all -A
 #Creating a Pod:
 apiVersion: v1
 	kind: Pod
+	metadata:
 
 ```
 **Deployments**</br>
