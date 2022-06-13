@@ -36,7 +36,7 @@ Part1
 or you can connect a Docker client to a remote Docker daemon. The Docker client and daemon communicate using a REST API, over UNIX sockets or a network interface.
 ![image info](photos/docker_artchitecture.PNG)
 
-After introducing Docker, 
+&nbsp;&nbsp;&nbsp;&nbsp;After introducing Docker, 
 **Additional information**
 - Docker provides tooling and a platform to manage the lifecycle of my containers:
 	- Develop my application and its supporting components using containers.
