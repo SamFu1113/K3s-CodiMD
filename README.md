@@ -143,6 +143,8 @@ kubectl get all -A
 ```sh
 #Creating a Pod:
 apiVersion: v1
+kind: Pod
+
 ```
 **Deployments**</br>
 &nbsp;&nbsp;&nbsp;&nbsp;A Deployment provides declarative updates for Pods ReplicaSets. I describe a desired state in a Deployment, and the Deployment Controller changes the actual state to the desired state at a controlled rate. I can define Deployments to create new ReplicaSets, or to remove existing Deployments and adopt all their resources with new Deployments.
