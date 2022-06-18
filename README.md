@@ -150,6 +150,7 @@ apiVersion: v1
 			app: nginx
 	spec:
 		containers:
+			- name: nginx
 
 ```
 **Deployments**</br>
