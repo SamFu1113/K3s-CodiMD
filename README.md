@@ -148,6 +148,7 @@ apiVersion: v1
 		name: nginx
 		labels:
 			app: nginx
+	spec:
 
 ```
 **Deployments**</br>
