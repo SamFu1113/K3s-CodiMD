@@ -145,6 +145,7 @@ kubectl get all -A
 apiVersion: v1
 	kind: Pod
 	metadata:
+		name: nginx
 
 ```
 **Deployments**</br>
