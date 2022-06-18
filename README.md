@@ -146,6 +146,7 @@ apiVersion: v1
 	kind: Pod
 	metadata:
 		name: nginx
+		labels:
 
 ```
 **Deployments**</br>
