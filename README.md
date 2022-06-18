@@ -151,6 +151,7 @@ apiVersion: v1
 	spec:
 		containers:
 			- name: nginx
+			image: nginx:1.14.2
 
 ```
 **Deployments**</br>
