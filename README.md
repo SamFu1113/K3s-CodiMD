@@ -149,6 +149,7 @@ apiVersion: v1
 		labels:
 			app: nginx
 	spec:
+		containers:
 
 ```
 **Deployments**</br>
