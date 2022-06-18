@@ -147,6 +147,7 @@ apiVersion: v1
 	metadata:
 		name: nginx
 		labels:
+			app: nginx
 
 ```
 **Deployments**</br>
