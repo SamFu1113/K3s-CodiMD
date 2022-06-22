@@ -165,6 +165,7 @@ apiVersion: apps/v1
 kind: Deployment
 metadata:
 	name: nginx-deployment
+	labels:
 ```
 **Services**</br>
 &nbsp;&nbsp;&nbsp;&nbsp;An abstract way to expose an application running on a set of Pods as a network service. With Kubernetes I don’t need to modify my application to use an unfamiliar service discovery mechanism. Kubernetes gives Pods their own IP addresses and a single DNS name for a set of Pods, and can load-balance across them.
