@@ -142,6 +142,7 @@ kubectl get all -A
 &nbsp;&nbsp;&nbsp;&nbsp;Pods are the smallest deployable units of computing that I can create and manage in Kubernetes. A Pod is a group of one or more containers, with shared storage/network resources, and a specification for how to run the containers.
 ```sh
 #Creating a Pod:
+
 apiVersion: v1
 	kind: Pod
 	metadata:
