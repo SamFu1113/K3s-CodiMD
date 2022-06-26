@@ -147,7 +147,7 @@ apiVersion: v1
   kind: Pod
   metadata:
 	name: nginx
-		labels:
+	labels:
 			app: nginx
 	spec:
 		containers:
