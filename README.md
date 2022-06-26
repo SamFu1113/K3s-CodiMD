@@ -169,7 +169,7 @@ metadata:
 		app: nginx
 spec:
   replicas: 3
-	selector:
+  selector:
 		matchLabels:
 ```
 **Services**</br>
