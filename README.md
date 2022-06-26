@@ -145,7 +145,7 @@ kubectl get all -A
 
 apiVersion: v1
   kind: Pod
-	metadata:
+  metadata:
 		name: nginx
 		labels:
 			app: nginx
