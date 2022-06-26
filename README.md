@@ -144,7 +144,7 @@ kubectl get all -A
 #Creating a Pod:
 
 apiVersion: v1
-	kind: Pod
+  kind: Pod
 	metadata:
 		name: nginx
 		labels:
