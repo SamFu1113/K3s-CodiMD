@@ -166,7 +166,7 @@ kind: Deployment
 metadata:
   name: nginx-deployment
   labels:
-		app: nginx
+	app: nginx
 spec:
   replicas: 3
   selector:
