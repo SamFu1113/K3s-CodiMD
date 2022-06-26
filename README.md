@@ -148,7 +148,7 @@ apiVersion: v1
   metadata:
 	name: nginx
 	labels:
-			app: nginx
+	  app: nginx
 	spec:
 		containers:
 			- name: nginx
