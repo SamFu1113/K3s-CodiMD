@@ -151,13 +151,8 @@ apiVersion: v1
 	  app: nginx
   spec:
 	containers:
-<<<<<<< HEAD
 	  - name: nginx
 	  image: nginx:1.14.2
-=======
-			- name: nginx
-			image: nginx:1.14.2
->>>>>>> parent of c4530e0 (Update the documentation)
 			ports:
 			- containerPort: 80
 ```
