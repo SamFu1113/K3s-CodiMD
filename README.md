@@ -153,7 +153,7 @@ apiVersion: v1
 	containers:
 	  - name: nginx
 	  image: nginx:1.14.2
-			ports:
+	  ports:
 			- containerPort: 80
 ```
 **Deployments**</br>
