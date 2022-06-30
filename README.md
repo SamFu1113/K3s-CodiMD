@@ -151,7 +151,7 @@ apiVersion: v1
 	  app: nginx
   spec:
 	containers:
-			- name: nginx
+	  - name: nginx
 			image: nginx:1.14.2
 			ports:
 			- containerPort: 80
