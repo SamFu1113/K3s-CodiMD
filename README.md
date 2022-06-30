@@ -150,7 +150,7 @@ apiVersion: v1
 	labels:
 	  app: nginx
   spec:
-		containers:
+	containers:
 			- name: nginx
 			image: nginx:1.14.2
 			ports:
