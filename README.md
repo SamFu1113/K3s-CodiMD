@@ -154,7 +154,7 @@ apiVersion: v1
 	  - name: nginx
 	  image: nginx:1.14.2
 	  ports:
-			- containerPort: 80
+	  - containerPort: 80
 ```
 **Deployments**</br>
 &nbsp;&nbsp;&nbsp;&nbsp;A Deployment provides declarative updates for Pods ReplicaSets. I describe a desired state in a Deployment, and the Deployment Controller changes the actual state to the desired state at a controlled rate. I can define Deployments to create new ReplicaSets, or to remove existing Deployments and adopt all their resources with new Deployments.
