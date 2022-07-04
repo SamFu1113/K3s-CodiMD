@@ -179,6 +179,7 @@ spec:
 	  spec:
 	    containers:
 		- name: nginx
+		image: nginx:1.14.2
 ```
 **Services**</br>
 &nbsp;&nbsp;&nbsp;&nbsp;An abstract way to expose an application running on a set of Pods as a network service. With Kubernetes I don’t need to modify my application to use an unfamiliar service discovery mechanism. Kubernetes gives Pods their own IP addresses and a single DNS name for a set of Pods, and can load-balance across them.
