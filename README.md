@@ -192,6 +192,7 @@ apiVersion: v1
 kind: Service
 metadata:
   name: my-nginx
+  labels:
 ```
 ## Project implementation
 
