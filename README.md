@@ -189,6 +189,8 @@ spec:
 #Creating a Service:
 
 apiVersion: v1
+kind: Service
+
 ```
 ## Project implementation
 
