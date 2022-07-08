@@ -190,6 +190,7 @@ spec:
 
 apiVersion: v1
 kind: Service
+metadata:
 
 ```
 ## Project implementation
