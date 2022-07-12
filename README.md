@@ -194,6 +194,7 @@ metadata:
   name: my-nginx
   labels:
 	run: my-nginx
+	spec:
 ```
 ## Project implementation
 
