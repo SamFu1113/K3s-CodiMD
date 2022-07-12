@@ -195,6 +195,7 @@ metadata:
   labels:
 	run: my-nginx
 spec:
+ports:
 ```
 ## Project implementation
 
