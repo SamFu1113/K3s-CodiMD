@@ -197,7 +197,7 @@ metadata:
 spec:
   ports:
   - port: 80
-  protocol: TCP
+	protocol: TCP
 ```
 ## Project implementation
 
