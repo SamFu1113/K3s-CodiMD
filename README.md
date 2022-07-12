@@ -196,6 +196,7 @@ metadata:
 	run: my-nginx
 spec:
   ports:
+  - port: 80
 ```
 ## Project implementation
 
