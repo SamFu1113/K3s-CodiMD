@@ -193,6 +193,7 @@ kind: Service
 metadata:
   name: my-nginx
   labels:
+  run: my-nginx
 ```
 ## Project implementation
 
