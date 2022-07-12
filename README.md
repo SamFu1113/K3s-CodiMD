@@ -198,7 +198,7 @@ spec:
   ports:
   - port: 80
 	protocol: TCP
-selector:
+  selector:
 ```
 ## Project implementation
 
