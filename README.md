@@ -199,7 +199,7 @@ spec:
   - port: 80
 	protocol: TCP
   selector:
-  run: my-nginx
+	run: my-nginx
 ```
 ## Project implementation
 
