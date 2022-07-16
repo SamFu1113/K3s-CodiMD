@@ -201,6 +201,7 @@ spec:
   selector:
 	run: my-nginx
 ```
+After introducing
 ## Project implementation
 
 ### Part I
