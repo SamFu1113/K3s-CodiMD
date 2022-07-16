@@ -201,7 +201,7 @@ spec:
   selector:
 	run: my-nginx
 ```
-&nbsp;&nbsp;&nbsp;&nbsp;After introducing K8s basic components
+&nbsp;&nbsp;&nbsp;&nbsp;After introducing K8s basic components: Pod,
 ## Project implementation
 
 ### Part I
