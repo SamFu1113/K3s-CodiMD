@@ -201,7 +201,7 @@ spec:
   selector:
 	run: my-nginx
 ```
-&nbsp;&nbsp;&nbsp;&nbsp;After introducing K8s basic components which are Pod, Deployment, and Service.
+&nbsp;&nbsp;&nbsp;&nbsp;After introducing K8s basic components which are Pod, Deployment, and Service. We can start to practice K8s.
 ## Project implementation
 
 ### Part I
